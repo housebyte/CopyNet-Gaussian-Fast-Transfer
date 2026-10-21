@@ -4,7 +4,7 @@
 An experimental approach to fast, reversible
 AI knowledge transfer.
 
-![CopyNet Gaussian Fast Transfer](CopyNet.png)
+![CopyNet Gaussian Fast Transfer](./CopyNet.png)
 
 ## Overview
 
